@@ -33,7 +33,7 @@ body {
 
   /* CONTAINER */
   .container {
-    width: 95%;
+    width: 95% !important;
     max-width: 100%;
   }
 
